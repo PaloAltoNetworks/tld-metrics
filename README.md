@@ -8,9 +8,9 @@ Each TLD is labeled with its generation based on when it was introduced: **Legac
 This data accompanies our study on the impact of the expanding gTLD namespace on the DNS ecosystem. Our analysis shows that newer generations of gTLDs are increasingly used for malicious purposes: first, second, and third wave gTLDs are 2.3, 2.7, and 4.2 times more malicious than legacy gTLDs, respectively. We will continue to update this repository periodically with new data, and continue to monitor how newer gTLDs are being utilized.
 
 **Research Papers**:
-- [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](https://dx.doi.org/10.14722/madweb.2026.23030).
-Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, Daiping Liu.
-*To appear at* **MADWeb 2026** (Workshop on Measurements, Attacks, and Defenses for the Web, co-located with NDSS 2026). February 27, 2026.
+- [Not What It Used To Be: Generational Analysis of Top-level Domain Reputation](https://madweb.work/papers/2026/madweb26-paper30.pdf).
+Janos Szurdi, Reethika Ramesh, Ram Sundara Raman, Daiping Liu. *Published at:* **MADWeb 2026** (Workshop on Measurements, Attacks, and Defenses for the Web, co-located with NDSS 2026). February 27, 2026.\
+🏆 **Distinguished Paper Award** 
 
 ### Cite Our Work
 If you use our data for published research, please cite our research paper:
@@ -40,6 +40,7 @@ Citing our papers helps us track data usage within the research community and to
 - [2025-09-06](snapshots/20250906_tld_rep.md)
 - [2025-11-30](snapshots/20251130_tld_rep.md)
 - [2026-02-03](snapshots/20260203_tld_rep.md)
+- [2026-03-02](snapshots/20260302_tld_rep.md)
 
 ## Definitions
 
